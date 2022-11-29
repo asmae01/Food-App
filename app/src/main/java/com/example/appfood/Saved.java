@@ -17,7 +17,6 @@ import android.widget.TextView;
 
 import com.example.appfood.adapter.RecycleViewAdapter;
 import com.example.appfood.model.Recettes;
-import com.example.appfood.model.Users;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 
