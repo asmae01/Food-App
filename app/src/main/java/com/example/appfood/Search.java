@@ -132,7 +132,7 @@ public class Search extends AppCompatActivity implements SearchView.OnQueryTextL
         return false;
     }
     public void filterBtn(View view) {
-        Intent i = new Intent(this , Upload.class);
+        Intent i = new Intent(this , SearchFilter.class);
         startActivity(i);
     }
 
