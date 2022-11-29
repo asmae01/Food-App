@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">AppFood</string>
+    <string name="textview">TextView</string>
+    <string name="simple_recipy_with_your_fridge_s_ingredients">Simple recipy with your fridge\'s ingredients</string>
+    <string name="asian">Asian</string>
+    <string name="todo">TODO</string>
+    <string name="foods">Foods</string>
+    <string name="todo1">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipy_with_your_fridge_s_ingredients">Recipy with your fridge\'s ingredients</string>
+    <string name="snacks">Snacks</string>
+    <string name="best_for_you">Best for You</string>
+    <string name="salad">Salad</string>
+    <string name="drinks">Drinks</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="foods_all">Foods</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="couscous_royal">Couscous Royal</string>
+    <string name="plat">TODO</string>
+    <string name="view_recipe">View Recipe</string>
+    <string name="time">2h</string>
+    <string name="horloge">TODO</string>
+    <string name="couscous_description">"Le couscous marocain est une spécialité culinaire du Maghreb. Il représente un mélange simplement de deux plats principaux. Il s'agit de la semoule de blé cuite dans un couscoussier à la vapeur et d'un corps gras qui peut être soit du beurre ou généralement de l'huile d'olive "</string>
+    <string name="le_couscous_marocain_est_une_sp_cialit_culinaire_du_maghreb_il_repr_sente_un_m_lange_simplement_de_deux_plats_principaux_il_s_agit_de_la_semoule_de_bl_cuite_dans_un_couscoussier_la_vapeur_et_d_un_corps_gras_qui_peut_tre_soit_du_beurre_ou_g_n_ralement_de_l_huile_d_olive">Le couscous marocain est une spécialité culinaire du Maghreb. Il représente un mélange simplement de deux plats principaux. Il s\'agit de la semoule de blé cuite dans un couscoussier à la vapeur et d\'un corps gras qui peut être soit du beurre ou généralement de l\'huile d\'olive</string>
+
+
+    <string name="togglebutton">ToggleButton</string>
+    <string name="_50cal">50cal</string>
+
+    <string name="salam_hdygcuydhcg_dchdgch_y_hdjc">salam hdygcuydhcg dchdgch y hdjc</string>
+
+    <string name="upload_bar">Upload New Recipe</string>
+    <string name="upload_title">Upload Cover</string>
+    <string name="upload_subtitle">Click here to upload cover sheets</string>
+    <string name="upload_name">Name</string>
+    <string name="upload_desc">Description</string>
+    <string name="cooktime">Time to cook</string>
+    <string name="upload_cuisine">Cuisine</string>
+    <string name="cuisine_chineese">Chineese</string>
+    <string name="cuisine_type_it">Italy</string>
+
+
+    <string name="description">description</string>
+    <string name="liste_recettes">liste recettes</string>
+    <string name="textview1">TextView</string>
+    <string name="favorite">Favorite</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="search">Search</string>
+
+    <array name="usernames">
+        <item>Salade</item>
+        <item>Food</item>
+        <item>Snakes</item>
+        <item>Soups</item>
+        <item>Pasta</item>
+        <item>Salade</item>
+        <item>Food</item>
+        <item>Snakes</item>
+        <item>Soups</item>
+        <item>Pasta</item>
+        <item>Salade</item>
+        <item>Food</item>
+        <item>Snakes</item>
+        <item>Soups</item>
+        <item>Pasta</item>
+
+    </array>
+    <string name="userDes">this is user description for all items</string>
+
+</resources>

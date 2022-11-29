@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:id="@+id/toolbarID"
+    android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+    tools:ignore="MissingClass">
+
+    <ImageButton
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:background="@drawable/ic_baseline_arrow_back_ios_24"
+        android:contentDescription="@string/description"
+        android:gravity="center_vertical"
+        android:onClick="back_button"
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/alex_brush"
+        android:paddingStart="10dp"
+        android:text="@string/favorite"
+        android:textColor="@color/grey_black"
+
+        android:textSize="28sp"
+        tools:fontFamily="@font/alex_brush" />
+
+
+
+
+
+
+
+
+    </androidx.appcompat.widget.Toolbar>
