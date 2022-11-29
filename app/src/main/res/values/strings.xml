@@ -37,7 +37,7 @@
     <string name="upload_name">Name</string>
     <string name="upload_desc">Description</string>
     <string name="cooktime">Time to cook</string>
-    <string name="upload_cuisine">Cuisine</string>
+    <string name="upload_cuisine">Categorie</string>
     <string name="cuisine_chineese">Chineese</string>
     <string name="cuisine_type_it">Italy</string>
 
@@ -52,17 +52,17 @@
     <array name="usernames">
         <item>Salade</item>
         <item>Food</item>
-        <item>Snakes</item>
+        <item>Snack</item>
         <item>Soups</item>
         <item>Pasta</item>
         <item>Salade</item>
         <item>Food</item>
-        <item>Snakes</item>
+        <item>Snack</item>
         <item>Soups</item>
         <item>Pasta</item>
         <item>Salade</item>
         <item>Food</item>
-        <item>Snakes</item>
+        <item>Snack</item>
         <item>Soups</item>
         <item>Pasta</item>
 
